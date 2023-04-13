@@ -18,9 +18,7 @@ export function Login() {
                     className="login-btn"
                     type="submit"
                 > Entrar </button>
-                <p className="login-texto">
-                    <a  href="">Esqueceu a senha</a>
-                </p>
+
             </form>
 
         </div>

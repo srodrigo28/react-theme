@@ -2,7 +2,7 @@ import './styles.css'
 import { Login } from "./Login"
 import ReactSwitch from "react-switch";
 import { useState } from 'react';
-
+// npm i react-switch
 function App() {
   const [theme, setTheme] = useState("light");
 
